@@ -2,6 +2,8 @@
 
 A [language server](http://langserver.org) for text.
 
+Donated this project to UnifiedJS and it's going strong at https://github.com/unifiedjs/unified-language-server . Follow that one instead
+
 ![demo gif](https://media.giphy.com/media/8BlBVMzDbmGY6ORBeL/giphy.gif)
 
 It supports all formats [Unified.JS](https://unified.js.org) can understand:
